@@ -10,8 +10,8 @@ from pprint import pprint
 
 # Replace with your actual credentials
 DEFAULT_ENV = "https://www.gwn.cloud" # Refer the URL: https://doc.grandstream.dev/GWN-API/EN/#api-160077149722401000249
-ID_ENV = '103408' # Retrieved from the GDMS Cloud API Developer Portal.
-SECRET_KEY_ENV = 'ev9nFH32UDYFJ7WvCTHnenNheSyi2bWy' # Retrieved from the GDMS Cloud API Developer Portal.
+ID_ENV = '116438' # Retrieved from the GDMS Cloud API Developer Portal.
+SECRET_KEY_ENV = 'zs9nFH345DYER7WvCKMnenNheSyi2bsyk' # Retrieved from the GDMS Cloud API Developer Portal.
 
 """
 Create a .env file in the same directory as the script and set the following environment variables:
